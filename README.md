@@ -1,5 +1,6 @@
 # printer-maintenance-checklist
-A clean, structured checklist that demonstrates operational discipline and the ability to create technician‑ready documentation that improves service consistency.
+
+A checklist demonstrating operational discipline and creating technician‑ready documentation that improves service consistency.
 
 🛠️ Preventive Maintenance Checklist for Printers
 
