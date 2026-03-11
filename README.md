@@ -2,10 +2,13 @@
 A clean, structured checklist that demonstrates operational discipline and the ability to create technician‑ready documentation that improves service consistency.
 
 🛠️ Preventive Maintenance Checklist for Printers
+
 **Overview**
+
 This project delivers a concise, professional preventive maintenance checklist designed for both laser and inkjet printers. It showcases process thinking, documentation clarity, and the ability to standardize maintenance workflows.
 
 **Objectives**
+
 - Create a repeatable maintenance process
 
 - Improve printer reliability and reduce service calls
@@ -13,18 +16,7 @@ This project delivers a concise, professional preventive maintenance checklist d
 - Provide a technician‑friendly checklist for field use
 
 **Checklist Components**
-🛠️ Project 2: Preventive Maintenance Checklist for Printers
-Overview
-This project delivers a concise, professional preventive maintenance checklist designed for both laser and inkjet printers. It showcases process thinking, documentation clarity, and the ability to standardize maintenance workflows.
 
-**Objectives**
-Create a repeatable maintenance process
-
-Improve printer reliability and reduce service calls
-
-Provide a technician‑friendly checklist for field use
-
-**Checklist Components**
 **Visual Inspection**
 
 - Exterior damage
